@@ -884,7 +884,7 @@ blockquote.theme-colored2 {
   border-left: 3px solid rgb(253, 152, 0);
 }
 blockquote.bg-theme-colored2 {
-  border-left: 3px solid #008d9e;
+  border-left: 3px solid rgb(253, 152, 0) !important;;
   color: #fff;
 }
 blockquote.bg-theme-colored2 footer {
@@ -1120,8 +1120,8 @@ fieldset[disabled] .btn-border.btn-theme-colored2.focus {
 .btn-border.btn-theme-colored2:hover,
 .btn-border.btn-theme-colored2:active,
 .btn-border.btn-theme-colored2:focus {
-  background-color: #008d9e;
-  border-color: #008d9e;
+  background-color: rgb(253, 152, 0) !important;;
+  border-color: rgb(253, 152, 0) !important;;
   color: #fff;
 }
 /*
@@ -1136,19 +1136,19 @@ fieldset[disabled] .btn-border.btn-theme-colored2.focus {
 .btn-dark.btn-theme-colored2:focus,
 .btn-dark.btn-theme-colored2.focus {
   color: #fff;
-  background-color: #008d9e;
+  background-color: rgb(253, 152, 0) !important;;
   border-color: #004952;
 }
 .btn-dark.btn-theme-colored2:hover {
   color: #fff;
-  background-color: #008d9e;
+  background-color: rgb(253, 152, 0) !important;;
   border-color: #008494;
 }
 .btn-dark.btn-theme-colored2:active,
 .btn-dark.btn-theme-colored2.active,
 .open > .dropdown-toggle.btn-dark.btn-theme-colored2 {
   color: #fff;
-  background-color: #008d9e;
+  background-color: rgb(253, 152, 0) !important;;
   border-color: #008494;
 }
 .btn-dark.btn-theme-colored2:active:hover,
@@ -1335,8 +1335,8 @@ fieldset[disabled] .btn-theme-colored2.focus {
   color: #fff;
 }
 .icon-theme-colored2.icon-dark a:hover {
-  background-color: #008d9e;
-  color: #008d9e;
+  background-color: rgb(253, 152, 0) !important;;
+  color: rgb(253, 152, 0) !important;;
 }
 .icon-theme-colored2.icon-dark.icon-bordered a {
   border-color: rgb(253, 152, 0);
@@ -1351,7 +1351,7 @@ fieldset[disabled] .btn-theme-colored2.focus {
   color: rgb(253, 152, 0);
 }
 .icon-theme-colored2.icon-gray a:hover {
-  color: #008d9e;
+  color: rgb(253, 152, 0) !important;;
 }
 .icon-theme-colored2.icon-gray.icon-bordered a {
   color: rgb(253, 152, 0);
@@ -1362,7 +1362,7 @@ fieldset[disabled] .btn-theme-colored2.focus {
   color: rgb(253, 152, 0);
 }
 .icon-theme-colored2 a:hover {
-  color: #008d9e;
+  color: rgb(253, 152, 0) !important;;
 }
 .icon-hover-theme-colored2 a:hover {
   background-color: rgb(253, 152, 0);
