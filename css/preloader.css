@@ -1,3 +1,7 @@
+/*
+@Author: ThemeMascot
+@URL: http://ThemeMascot.com
+
 */
 
 /* Your Preloader css codes start here: */
@@ -16,14 +20,13 @@
   z-index: 9999;
 }
 #spinner {
-  display: block;
-  height: 400px;
-  left: 50%;
-  /* margin: -55px; */
-  position: relative;
-  top: 50%;
-  width: 400px;
-  transform: translateX(-50%) translateY(-50%);
+display: block;
+    height: 350px;
+    left: 50%;
+    position: relative;
+    top: 50%;
+    width: 350px;
+    transform: translateX(-50%) translateY(-50%);
 }
 #preloader #disable-preloader {
   display: block;
@@ -2931,3 +2934,4 @@
 }
 
 /* -------- Preloader animation ---------- */
+
