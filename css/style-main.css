@@ -117,7 +117,7 @@ html {
 }
 body {
   line-height: 1.7;
-  color: #777777;
+  color: #fff;
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
   background-color: #fff;
@@ -8240,6 +8240,7 @@ blockquote p {
 }
 .project-caption a {
   opacity: 0;
+  color: rgb(253, 152, 0)!important;
   position: relative;
   bottom: -40px;
   transition: all 400ms ease 400ms;
@@ -9031,12 +9032,12 @@ blockquote p {
  * -----------------------------------------------
 */
 .footer a {
-  color: #808080;
+  color: #fff;
 }
 .footer a:focus,
 .footer a:hover,
 .footer a:active {
-  color: #666666;
+  color: rgb(253, 152, 0) !important;
 }
 .footer .widget .widget-title {
   margin-top: 0px;
@@ -9072,6 +9073,10 @@ body.has-fixed-footer .main-content {
   body.has-fixed-footer .main-content {
     margin-bottom: 0 !important;
   }
+}
+.entry-meta,
+.entry-content-meta {
+    color: #777777;
 }
 
 /*# sourceMappingURL=style-main.css.map */
