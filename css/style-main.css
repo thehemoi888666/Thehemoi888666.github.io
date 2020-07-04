@@ -90,8 +90,8 @@ This file contains the common styles of this theme.
 /*
  * Typography.less
  * -----------------------------------------------
-*/
-::selection {
+ */
+ ::selection {
   background: #333333;
   color: #fff;
   text-shadow: none;
@@ -350,9 +350,9 @@ form {
 /*
  * common.less
  * -----------------------------------------------
-*/
-/* -------- Basic Structure ---------- */
-html {
+ */
+ /* -------- Basic Structure ---------- */
+ html {
   font-size: 100%;
   max-width: 100%;
 }
@@ -752,9 +752,9 @@ section > .container-fluid {
 /*  
  * extra.less 
  * -----------------------------------------------
-*/
-/* -------- Heading Style ---------- */
-.heading-border {
+ */
+ /* -------- Heading Style ---------- */
+ .heading-border {
   border-bottom: 1px solid #d3d3d3;
   margin: 30px 0;
   padding: 20px 0;
@@ -795,8 +795,8 @@ section > .container-fluid {
 /*
  * overlays.less
  * -----------------------------------------------
-*/
-.layer-overlay {
+ */
+ .layer-overlay {
   position: relative;
   /* overlay-dark */
   /* overlay-white */
@@ -938,8 +938,8 @@ section > .container-fluid {
 /*
  * header.less
  * -----------------------------------------------
-*/
-.navbar-scrolltofixed {
+ */
+ .navbar-scrolltofixed {
   z-index: 999 !important;
 }
 .header-top {
@@ -1415,9 +1415,9 @@ section > .container-fluid {
 /*
  * nav.less
  * -----------------------------------------------
-*/
-/* -------- nav sidebar ---------- */
-.nav-sidebar li {
+ */
+ /* -------- nav sidebar ---------- */
+ .nav-sidebar li {
   background: #f1f1f1;
   padding-bottom: 0;
 }
@@ -1626,16 +1626,16 @@ section > .container-fluid {
 /*
  * inner-header-title.less
  * -----------------------------------------------
-*/
-.inner-header .title {
+ */
+ .inner-header .title {
   font-size: 36px;
   text-transform: uppercase;
 }
 /*
  *  Vertical-Nav.less
  * -----------------------------------------------
-*/
-body.vertical-nav .container {
+ */
+ body.vertical-nav .container {
   max-width: 1100px;
 }
 body.vertical-nav header#header {
@@ -1799,9 +1799,9 @@ body.vertical-nav .rev_slider_wrapper {
 /*
  *  menu-full-page.less
  * -----------------------------------------------
-*/
-/* menu-full-page plugin code */
-.menu-full-page #fullpage-nav {
+ */
+ /* menu-full-page plugin code */
+ .menu-full-page #fullpage-nav {
   background: rgba(255, 255, 255, 0.97);
   z-index: -1;
   position: fixed;
@@ -2006,8 +2006,8 @@ body.vertical-nav .rev_slider_wrapper {
 /*
  *  boxed-layout.less
  * -----------------------------------------------
-*/
-.boxed-layout {
+ */
+ .boxed-layout {
   background-color: #eee;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -2104,11 +2104,11 @@ body.vertical-nav .rev_slider_wrapper {
 /*
  * form.less
  * -----------------------------------------------
-*/
-/* -------- Form ---------- */
-.input-group-lg > .form-control,
-.input-group-lg > .input-group-addon,
-.input-group-lg > .input-group-btn > .btn {
+ */
+ /* -------- Form ---------- */
+ .input-group-lg > .form-control,
+ .input-group-lg > .input-group-addon,
+ .input-group-lg > .input-group-btn > .btn {
   font-size: 14px;
 }
 .form-control {
@@ -2218,8 +2218,8 @@ form select {
 /*
  *  side-push-panel.less
  * -----------------------------------------------
-*/
-.side-push-panel {
+ */
+ .side-push-panel {
   overflow-x: hidden;
 }
 .side-push-panel.fullwidth-page #wrapper {
@@ -2365,8 +2365,8 @@ form select {
 /*
  *  box-hover-effect.less
  * -----------------------------------------------
-*/
-.box-hover-effect {
+ */
+ .box-hover-effect {
   display: inline-block;
   vertical-align: middle;
 }
@@ -3098,9 +3098,9 @@ form select {
 /*
  * gallery-isotope.less
  * -----------------------------------------------
-*/
-/* -------- Portfolio Isotop Filter ---------- */
-.portfolio-filter {
+ */
+ /* -------- Portfolio Isotop Filter ---------- */
+ .portfolio-filter {
   margin-bottom: 30px;
 }
 .portfolio-filter a {
@@ -3396,9 +3396,9 @@ form select {
 /*
  * home.less
  * -----------------------------------------------
-*/
-/* -------- Setion-Bottom-Absolute-Div ---------- */
-.setion-bottom-absolute-div {
+ */
+ /* -------- Setion-Bottom-Absolute-Div ---------- */
+ .setion-bottom-absolute-div {
   background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
   bottom: 0;
   left: 0;
@@ -3408,8 +3408,8 @@ form select {
 /*
  * contact.less
  * -----------------------------------------------
-*/
-.contact-wrapper {
+ */
+ .contact-wrapper {
   padding: 50px 50px 50px 100px;
 }
 .contact-form .form-group {
@@ -3444,8 +3444,8 @@ textarea {
 /*
  * job.less
  * -----------------------------------------------
-*/
-.job-overview {
+ */
+ .job-overview {
   box-shadow: 0 0 0 2px #eee;
   padding: 20px 0 20px 20px;
 }
@@ -3458,8 +3458,8 @@ textarea {
 /*
  * event.less
  * -----------------------------------------------
-*/
-.event {
+ */
+ .event {
   background: #f6f6f6;
   border: 1px solid transparent;
   -webkit-transition: all 0.4s ease 0s;
@@ -3581,9 +3581,9 @@ textarea {
 /*
  * shop.less
  * -----------------------------------------------
-*/
-/* -------- Product Details Page ---------- */
-.product {
+ */
+ /* -------- Product Details Page ---------- */
+ .product {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 30px;
@@ -3934,8 +3934,8 @@ table.no-border td {
 /*
  * blog.less
  * -----------------------------------------------
-*/
-.blog-posts .post {
+ */
+ .blog-posts .post {
   position: relative;
 }
 .blog-posts .post .entry-title {
@@ -4201,17 +4201,17 @@ table.no-border td {
 /*
  * shortcode.less
  * -----------------------------------------------
-*/
+ */
 /*
  * Shortcode: Alerts.less
  * -----------------------------------------------
-*/
+ */
 /*
  * Shortcode: Buttons.less
  * -----------------------------------------------
-*/
-/* -------- Btn-Default ---------- */
-.btn-default {
+ */
+ /* -------- Btn-Default ---------- */
+ .btn-default {
   color: #333;
   background-color: #fff;
   border-color: #ccc;
@@ -4499,8 +4499,8 @@ fieldset[disabled] .btn-gray.focus {
 /*
  * Blockquote.less
  * -----------------------------------------------
-*/
-blockquote {
+ */
+ blockquote {
   border-left: 3px solid #eeeeee;
   margin: 20px 0;
   padding: 30px;
@@ -4529,8 +4529,8 @@ blockquote p {
 /*
  * Shortcode: clients.less
  * -----------------------------------------------
-*/
-.clients-logo .item {
+ */
+ .clients-logo .item {
   padding: 10px;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -4581,8 +4581,8 @@ blockquote p {
 /*
  * Shortcode: Countdown.less
  * -----------------------------------------------
-*/
-.countdown-timer li {
+ */
+ .countdown-timer li {
   color: #808080;
   display: inline-block;
   padding: 30px 20px;
@@ -4630,13 +4630,13 @@ blockquote p {
 /*
  * Shortcode: Countdown-Timer.less
  * -----------------------------------------------
-*/
+ */
 /*
  * Shortcode: Dividers.less
  * -----------------------------------------------
-*/
-.divider,
-.parallax {
+ */
+ .divider,
+ .parallax {
   background-repeat: repeat;
   background-position: center center;
   -webkit-background-size: cover;
@@ -4681,13 +4681,13 @@ blockquote p {
 /*
  * Shortcode: Facebook-Disqus-Comments.less
  * -----------------------------------------------
-*/
-.fb-comments,
-.fb_iframe_widget,
-.fb-comments > span,
-.fb_iframe_widget > span,
-.fb-comments > span > iframe,
-.fb_iframe_widget > span > iframe {
+ */
+ .fb-comments,
+ .fb_iframe_widget,
+ .fb-comments > span,
+ .fb_iframe_widget > span,
+ .fb-comments > span > iframe,
+ .fb_iframe_widget > span > iframe {
   display: block;
   margin: 0;
   width: 100%;
@@ -4695,11 +4695,11 @@ blockquote p {
 /*
  * Shortcode: Flexslider.less
  * -----------------------------------------------
-*/
-.flex-container a:active,
-.flexslider a:active,
-.flex-container a:focus,
-.flexslider a:focus {
+ */
+ .flex-container a:active,
+ .flexslider a:active,
+ .flex-container a:focus,
+ .flexslider a:focus {
   outline: none;
   border: none;
 }
@@ -4756,8 +4756,8 @@ blockquote p {
 /*
  * Shortcode: Flip Box
  * -----------------------------------------------
-*/
-.card {
+ */
+ .card {
   float: left;
   min-height: 300px;
   padding-bottom: 25%;
@@ -4826,8 +4826,8 @@ blockquote p {
 /*
  * Responsive : Flip Box
  * -----------------------------------------------
-*/
-@media only screen and (max-width: 767px) {
+ */
+ @media only screen and (max-width: 767px) {
   .card {
     margin-bottom: 30px;
     min-height: 489px;
@@ -4854,8 +4854,8 @@ blockquote p {
 /*
  * Shortcode: funfacts.less
  * -----------------------------------------------
-*/
-.funfact {
+ */
+ .funfact {
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
@@ -4903,8 +4903,8 @@ blockquote p {
 /*
  * Shortcode: Icon Boxes
  * -----------------------------------------------
-*/
-.icon-box {
+ */
+ .icon-box {
   margin-bottom: 30px;
 }
 .icon-box .icon {
@@ -5137,8 +5137,8 @@ blockquote p {
 /*
  * 5.0 -> Img Icon Box
  * -----------------------------------------------
-*/
-.img-icon-box {
+ */
+ .img-icon-box {
   position: relative;
   overflow: hidden;
   -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
@@ -5216,8 +5216,8 @@ blockquote p {
 /*
  * Shortcode: Infinitescroll.less
  * -----------------------------------------------
-*/
-#infscr-loading {
+ */
+ #infscr-loading {
   background-color: rgba(0, 0, 0, 0.07);
   border-radius: 3px;
   color: #fff;
@@ -5237,10 +5237,10 @@ blockquote p {
 /*
  * Shortcode: Instagram.less
  * -----------------------------------------------
-*/
-/* -------- Instagram-Feed ---------- */
-.instagram-feed-carousel figure,
-.instagram-feed figure {
+ */
+ /* -------- Instagram-Feed ---------- */
+ .instagram-feed-carousel figure,
+ .instagram-feed figure {
   position: relative;
 }
 .instagram-feed-carousel figure .link-out,
@@ -5280,8 +5280,8 @@ blockquote p {
 /*
  * Shortcode: lightbox.less
  * -----------------------------------------------
-*/
-.nivo-lightbox-theme-default .nivo-lightbox-nav {
+ */
+ .nivo-lightbox-theme-default .nivo-lightbox-nav {
   height: 100%;
   top: 0;
 }
@@ -5294,8 +5294,8 @@ blockquote p {
 /**
  * Fade-zoom animation for first dialog
  */
-/* start state */
-.my-mfp-zoom-in .zoom-anim-dialog {
+ /* start state */
+ .my-mfp-zoom-in .zoom-anim-dialog {
   opacity: 0;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -5344,8 +5344,8 @@ blockquote p {
 /**
  * Fade-move animation for second dialog
  */
-/* at start */
-.my-mfp-slide-bottom .zoom-anim-dialog {
+ /* at start */
+ .my-mfp-slide-bottom .zoom-anim-dialog {
   opacity: 0;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -5394,8 +5394,8 @@ blockquote p {
 /*
  * Shortcode: Map.less
  * -----------------------------------------------
-*/
-.toggle-map {
+ */
+ .toggle-map {
   background: rgba(0, 0, 0, 0.7);
   color: #fff;
   cursor: pointer;
@@ -5450,16 +5450,16 @@ blockquote p {
 /*
  * Shortcode: odometer.less
  * -----------------------------------------------
-*/
-.odometer.odometer-theme-default,
-.odometer.odometer-theme-minimal {
+ */
+ .odometer.odometer-theme-default,
+ .odometer.odometer-theme-minimal {
   display: block;
 }
 /*
  * Shortcode: opening-hours.less
  * -----------------------------------------------
-*/
-.opening-hours ul li {
+ */
+ .opening-hours ul li {
   border-bottom: 1px solid #eeeeee;
   padding: 10px 0;
   margin-bottom: 0 !important;
@@ -5479,8 +5479,8 @@ blockquote p {
 /*
  * Shortcode: Pegination.less
  * -----------------------------------------------
-*/
-.pagination.theme-colored li.active a {
+ */
+ .pagination.theme-colored li.active a {
   color: #fff;
   border: 1px solid transparent;
 }
@@ -5508,12 +5508,12 @@ blockquote p {
 /*
  * Shortcode: Process-Steps.less
  * -----------------------------------------------
-*/
+ */
 /*
  * Shortcode: pie-chart.less
  * -----------------------------------------------
-*/
-.piechart {
+ */
+ .piechart {
   position: relative;
   display: inline-block;
   width: 110px;
@@ -5538,8 +5538,8 @@ blockquote p {
 /*
  * Shortcode: Progress-Bar.less
  * -----------------------------------------------
-*/
-.progress-item {
+ */
+ .progress-item {
   margin-top: 20px;
 }
 .progress-item .progress {
@@ -5589,8 +5589,8 @@ blockquote p {
 /*
  * Shortcode: Promo.less
  * -----------------------------------------------
-*/
-.modal-promo-box {
+ */
+ .modal-promo-box {
   max-width: 700px;
   padding: 90px 60px;
   margin: 0 auto;
@@ -5598,8 +5598,8 @@ blockquote p {
 /*
  * Shortcode: Separators.less
  * -----------------------------------------------
-*/
-.title-separator {
+ */
+ .title-separator {
   border-top-style: solid;
   border-top-width: 1px;
   font-size: 16px;
@@ -5694,8 +5694,8 @@ blockquote p {
 /*
  * Shortcode: styled-icons.less
  * -----------------------------------------------
-*/
-.styled-icons a {
+ */
+ .styled-icons a {
   color: #333333;
   font-size: 18px;
   height: 32px;
@@ -5798,8 +5798,8 @@ blockquote p {
 /*
  * Shortcode: Tabs.less
  * -----------------------------------------------
-*/
-.tab-content {
+ */
+ .tab-content {
   padding: 15px;
   border: 1px solid #eeeeee;
 }
@@ -6044,8 +6044,8 @@ blockquote p {
 /*
  * Shortcode: Toggles-Accordions.less
  * -----------------------------------------------
-*/
-.panel-group .panel-heading {
+ */
+ .panel-group .panel-heading {
   padding: 0;
 }
 .panel-group .panel-heading .panel-title {
@@ -6225,8 +6225,8 @@ blockquote p {
 /*
  * Shortcode: timetable-fullcalendar.less
  * -----------------------------------------------
-*/
-.fc-timetable-wrapper .fc-scroller {
+ */
+ .fc-timetable-wrapper .fc-scroller {
   height: auto;
   overflow: hidden;
 }
@@ -6412,8 +6412,8 @@ blockquote p {
 /*
  * Shortcode: Vertical-Timeline.less
  * -----------------------------------------------
-*/
-.cd-timeline-content {
+ */
+ .cd-timeline-content {
   background: #f1f1f1;
 }
 .cd-timeline-content::before {
@@ -6674,8 +6674,8 @@ blockquote p {
 /*
  * Shortcode: slick-slider.less
  * -----------------------------------------------
-*/
-.slick-slider .slick-slide {
+ */
+ .slick-slider .slick-slide {
   margin: 0px 20px;
   transition: all ease-in-out 0.3s;
   opacity: .2;
@@ -6696,9 +6696,9 @@ blockquote p {
 /*
  * Widgets.less
  * -----------------------------------------------
-*/
-/* -------- Top Search Bar ---------- */
-.search-form-wrapper {
+ */
+ /* -------- Top Search Bar ---------- */
+ .search-form-wrapper {
   position: relative;
   /* form absolute */
 }
@@ -6990,8 +6990,8 @@ blockquote p {
 /*
  * testimonials.less
  * -----------------------------------------------
-*/
-.testimonial .item {
+ */
+ .testimonial .item {
   position: relative;
   overflow: hidden;
 }
@@ -7070,50 +7070,50 @@ blockquote p {
   border-style: solid;
   border-width: 15px 15px 0 15px;
   border-color: fade(@black, 04%) transparent transparent transparent;
-}*/
-.testimonial.style1 .comment::after {
-  content: "";
-  width: 14px;
-  height: 14px;
-  position: absolute;
-  left: 30px;
-  background: url('../images/testimonials/quote_arrow.png') 0px 0px no-repeat;
-  top: 97%;
-}
-.owl-carousel .owl-item .testimonial img {
-  display: inline;
-  width: auto;
-}
-.testimonial .signature {
-  width: 60px;
-}
-.testimonial-content::after {
-  content: "\f10d";
-  font-family: fontawesome;
-  font-size: 80px;
-  left: 0;
-  opacity: 0.1;
-  position: absolute;
-  top: -65px;
-}
-.testimonial-content {
-  margin-top: 30px;
-  margin-left: 140px;
-  position: relative;
-}
+  }*/
+  .testimonial.style1 .comment::after {
+    content: "";
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    left: 30px;
+    background: url('../images/testimonials/quote_arrow.png') 0px 0px no-repeat;
+    top: 97%;
+  }
+  .owl-carousel .owl-item .testimonial img {
+    display: inline;
+    width: auto;
+  }
+  .testimonial .signature {
+    width: 60px;
+  }
+  .testimonial-content::after {
+    content: "\f10d";
+    font-family: fontawesome;
+    font-size: 80px;
+    left: 0;
+    opacity: 0.1;
+    position: absolute;
+    top: -65px;
+  }
+  .testimonial-content {
+    margin-top: 30px;
+    margin-left: 140px;
+    position: relative;
+  }
 /*
  * blog.less
  * -----------------------------------------------
-*/
-.blog-posts .post .entry-content {
+ */
+ .blog-posts .post .entry-content {
   border: 1px solid transparent;
   position: relative;
 }
 /*
  * clients.less
  * -----------------------------------------------
-*/
-.clients-logo .item {
+ */
+ .clients-logo .item {
   padding: 10px;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -7164,12 +7164,12 @@ blockquote p {
 /*
  * faqs.less
  * -----------------------------------------------
-*/
+ */
 /*
  * Shortcode: pricing.less
  * -----------------------------------------------
-*/
-.pricing-table {
+ */
+ .pricing-table {
   border: 1px solid #ddd;
   margin-bottom: 30px;
   position: relative;
@@ -7313,8 +7313,8 @@ blockquote p {
 /*
  * section-title.less
  * -----------------------------------------------
-*/
-.small-title {
+ */
+ .small-title {
   position: relative;
 }
 .small-title i {
@@ -7473,8 +7473,8 @@ blockquote p {
 /*
  * team.less
  * -----------------------------------------------
-*/
-.single-member .team-thumb {
+ */
+ .single-member .team-thumb {
   overflow: hidden;
   position: relative;
 }
@@ -7492,9 +7492,9 @@ blockquote p {
 /*
  * slider.less
  * -----------------------------------------------
-*/
-/* -------- Rev Slider ---------- */
-#home .revslider-fullscreen {
+ */
+ /* -------- Rev Slider ---------- */
+ #home .revslider-fullscreen {
   min-height: auto;
 }
 /* -------- Home Revolution Slider For Minimal Layouts ---------- */
@@ -7637,8 +7637,8 @@ blockquote p {
 /*
  * owl-carousel.less
  * -----------------------------------------------
-*/
-.owl-carousel {
+ */
+ .owl-carousel {
   /* owl dots */
 }
 .owl-carousel .owl-item img {
@@ -7933,8 +7933,8 @@ blockquote p {
 /*
  * Working-Process.less
  * -----------------------------------------------
-*/
-.working-process > li {
+ */
+ .working-process > li {
   float: left;
   overflow: hidden;
   position: relative;
@@ -8009,8 +8009,8 @@ blockquote p {
 /*
  * event.less
  * -----------------------------------------------
-*/
-.event-block {
+ */
+ .event-block {
   margin: 4px 0;
   position: relative;
 }
@@ -8075,8 +8075,8 @@ blockquote p {
 /*
  * practice-area.less
  * -----------------------------------------------
-*/
-.practice-area {
+ */
+ .practice-area {
   overflow: hidden;
   position: relative;
 }
@@ -8090,8 +8090,8 @@ blockquote p {
 /*
  * services.less
  * -----------------------------------------------
-*/
-.rotated-service-box {
+ */
+ .rotated-service-box {
   position: relative;
 }
 .rotated-service-box .icon {
@@ -8176,8 +8176,8 @@ blockquote p {
 /*
  * project-gallery.less
  * -----------------------------------------------
-*/
-.project-gallery {
+ */
+ .project-gallery {
   margin: 0 auto 6px;
   max-width: 400px;
 }
@@ -8252,8 +8252,8 @@ blockquote p {
 /*
  * about.less
  * -----------------------------------------------
-*/
-.top-course-thumb {
+ */
+ .top-course-thumb {
   position: relative;
 }
 .top-course-thumb::after {
@@ -8397,8 +8397,8 @@ blockquote p {
 /*
  * features.less
  * -----------------------------------------------
-*/
-.feature-item {
+ */
+ .feature-item {
   overflow: hidden;
 }
 .feature-item .thumb {
@@ -8527,8 +8527,8 @@ blockquote p {
 /*
  * causes.less
  * -----------------------------------------------
-*/
-.course-thumb {
+ */
+ .course-thumb {
   position: relative;
 }
 .price-tag {
@@ -8617,8 +8617,8 @@ blockquote p {
 /*
  * volunteer.less
  * -----------------------------------------------
-*/
-.volunteer {
+ */
+ .volunteer {
   position: relative;
 }
 .volunteer .overlay {
@@ -8675,8 +8675,8 @@ blockquote p {
 /*
  * line-bottom.less
  * -----------------------------------------------
-*/
-.line-bottom {
+ */
+ .line-bottom {
   position: relative;
   margin-bottom: 30px;
   padding-bottom: 10px;
@@ -8882,23 +8882,23 @@ blockquote p {
 /*
  * widgets.less
  * -----------------------------------------------
-*/
-.widget.dark .tags a {
+ */
+ .widget.dark .tags a {
   border: 1px solid #404040;
 }
 /*
  * nav.less
  * -----------------------------------------------
-*/
-.menuzord-menu > li > a {
+ */
+ .menuzord-menu > li > a {
   color: #404040;
   font-size: 13px;
 }
 /*
  * common.less
  * -----------------------------------------------
-*/
-.read-more {
+ */
+ .read-more {
   position: relative;
 }
 .read-more::after {
@@ -9030,8 +9030,8 @@ blockquote p {
 /*
  * footer.less
  * -----------------------------------------------
-*/
-.footer a {
+ */
+ .footer a {
   color: #fff;
 }
 .footer a:focus,
@@ -9076,7 +9076,7 @@ body.has-fixed-footer .main-content {
 }
 .entry-meta,
 .entry-content-meta {
-    color: #777777;
+  color: #777777;
 }
 
 /*# sourceMappingURL=style-main.css.map */

@@ -5,10 +5,10 @@
 /*
  * Utility Classes
  * -----------------------------------------------
-*/
-/* -------- Text Colors ---------- */
-/* Text Black & Gray Color*/
-.text-black {
+ */
+ /* -------- Text Colors ---------- */
+ /* Text Black & Gray Color*/
+ .text-black {
   color: #000 !important;
 }
 .make-color a{
@@ -67,7 +67,7 @@
   color: #eeeeee !important;
 }
 .text-414141 {
-    color: #414141 !important;
+  color: #414141 !important;
 }
 .text-gray-aaa {
   color: #eeeeee !important;
