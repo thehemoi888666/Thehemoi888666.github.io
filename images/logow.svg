@@ -9,7 +9,7 @@
 <rect x="0" y="17.68" fill="none" width="224.88" height="50.32"/>
 <text transform="matrix(1.062 0 0 1 5.9219 33.6401)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'Tahoma-Bold'" font-size="21px">CTCP MUA BÁN NỢ </tspan><tspan x="35.47" y="25.2" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'Tahoma-Bold'" font-size="21px">THẾ HỆ MỚI</tspan></text>
 <rect x="0" y="17.68" fill="none" width="224.88" height="50.32"/>
-<text transform="matrix(1.062 0 0 1 5.9219 33.6401)"><tspan x="0" y="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'Tahoma-Bold'" font-size="21px">CTCP MUA BÁN NỢ </tspan><tspan x="35.47" y="25.2" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'Tahoma-Bold'" font-size="21px">THẾ HỆ MỚI</tspan></text>
-<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10" d="M224.51,2.57l-0.03,62.99L2.47,65.46L2.5,2.47
+<text transform="matrix(1.062 0 0 1 5.9219 33.6401)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'Tahoma-Bold'" font-size="21px">CTCP MUA BÁN NỢ </tspan><tspan x="35.47" y="25.2" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'Tahoma-Bold'" font-size="21px">THẾ HỆ MỚI</tspan></text>
+<path fill="none" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10" d="M224.51,2.57l-0.03,62.99L2.47,65.46L2.5,2.47
 	L71.97,2.5l0.48,0.11c13.41,3.58,26.83,7.16,40.24,10.73c14.14-3.6,28.27-7.2,42.41-10.81C178.23,2.55,201.37,2.56,224.51,2.57z"/>
 </svg>
