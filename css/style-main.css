@@ -11128,5 +11128,11 @@ body.has-fixed-footer .main-content {
     color: #777777;
 }
 
+.logo-main {
+    margin-left: -20px;
+    width: 344px;
+    height: 75px;
+}
+
 
 /*# sourceMappingURL=style-main.css.map */
